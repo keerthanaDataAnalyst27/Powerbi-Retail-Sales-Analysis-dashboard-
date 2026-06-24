@@ -171,8 +171,8 @@ Business Strategy
 
 📸 Dashboard Preview
 
-Add your dashboard screenshots here : <img width="878" height="487" alt="Screenshot 2026-06-23 200520" src="https://github.com/user-attachments/assets/4042f33f-9c28-4431-bf11-d61611a17ab0" />
-Video Link : https://drive.google.com/file/d/1elzAHfy8fBcuTK4g94dR_qV-kLNI9k2V/view?usp=drivesdk
+Add your dashboard screenshots here : <img width="865" height="479" alt="image" src="https://github.com/user-attachments/assets/a76d38e3-63c5-4f62-b8bc-e2dd49264251" />
+Video Link : https://drive.google.com/file/d/1fTQiWcnc-VHrPu59fmmNX9FsEjJvsnhx/view?usp=drivesdk
 
 Example:
 
